@@ -1,2 +1,5 @@
-# NLP_Datasets
-My NLP datasets for Russian language
+# Русскоязычные NLP датасеты
+
+[Перефразировки](https://github.com/Koziev/NLP_Datasets/tree/master/ParaphraseDetection)
+
+
