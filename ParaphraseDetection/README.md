@@ -3,6 +3,8 @@
 В каталоге содержится исходный код утилит, помогающих автоматически собирать некоторые
 категории перестановочных перефразировок, а также результаты их работы.
 
+В частности, [программа](https://github.com/Koziev/NLP_Datasets/tree/master/ParaphraseDetection/Code/DuplicateSearch_MinHashing) содержит реализацию [MinHashing](https://en.wikipedia.org/wiki/MinHash) на C#.
+
 ## Формат датасета
 
 В каждом текстовом файле в [папке](https://github.com/Koziev/NLP_Datasets/tree/master/ParaphraseDetection/Data) группы перефразировок отделены минимум одной пустой строкой:
