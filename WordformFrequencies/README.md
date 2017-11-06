@@ -3,11 +3,12 @@
 В датасете представлены частоты слов с учетом части речи, определенной для слова в
 контексте содержащего ее предложения. Используется две утилиты. [Парсер](http://solarix.ru/parser.shtml) выполняет частеречную
 разметку большого (~8 Гб) текстового корпуса, сохраняя результаты в XML файлы. Затем данные файлы
-обрабатываются [программой на C#](https://github.com/Koziev/NLP_Datasets/tree/master/WordformFrequencies/Code), которая формирует и сохраняет [файл](https://github.com/Koziev/NLP_Datasets/tree/master/WordformFrequencies/term2freq.7z) с частотами слов.
+обрабатываются [программой на C#](https://github.com/Koziev/NLP_Datasets/tree/master/WordformFrequencies/Code), которая формирует и сохраняет
+[файл](https://github.com/Koziev/NLP_Datasets/blob/master/WordformFrequencies/Data/term2freq.7z) с частотами слов.
 
 ## Датасет
 
-[Файл](https://github.com/Koziev/NLP_Datasets/tree/master/WordformFrequencies/term2freq.7z) содержит в каждой строке содержит слово, часть речи и частоту:
+[Файл](https://github.com/Koziev/NLP_Datasets/blob/master/WordformFrequencies/Data/term2freq.7z) содержит в каждой строке содержит слово, часть речи и частоту:
 
 ```
 дальше	НАРЕЧИЕ	4448
