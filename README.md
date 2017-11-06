@@ -9,5 +9,7 @@
 
 [Леммы](https://github.com/Koziev/NLP_Datasets/blob/master/Lemmas/Data/word2lemma.7z)
 
+[Приведение слов к нейтральной форме "штучка-штука"](https://github.com/Koziev/NLP_Datasets/blob/master/Lemmas/Data/lemma2normal.dat)
+
 
 
