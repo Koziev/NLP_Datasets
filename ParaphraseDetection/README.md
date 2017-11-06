@@ -7,7 +7,7 @@
 
 ## Формат датасета
 
-В каждом текстовом файле в [папке](https://github.com/Koziev/NLP_Datasets/tree/master/ParaphraseDetection/Data) группы перефразировок отделены минимум одной пустой строкой:
+В каждом текстовом файле SENT*.duplicates.txt в [папке](https://github.com/Koziev/NLP_Datasets/tree/master/ParaphraseDetection/Data) группы перефразировок отделены минимум одной пустой строкой:
 
 ```
 все функции работают отлично
