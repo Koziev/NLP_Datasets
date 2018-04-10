@@ -44,6 +44,10 @@
 Бусины переливаются очень красиво!
 ```
 
+Предложения в каждом файле отсортированы программой [sort_samples_by_kenlm.py](https://github.com/Koziev/NLP_Datasets/blob/master/Samples/sort_samples_by_kenlm.py)
+в порядке убывания вероятности. Вероятность предложения получается с помощью предварительно
+обученной 3-грамной языковой модели [KenLM](https://github.com/kpu/kenlm).
+
 ## Сэмплы со сменой грамматического лица
 
 Пары предложений [в этих сэмплах](https://github.com/Koziev/NLP_Datasets/tree/master/ChangePerson) могут быть полезны для тренировки моделей в составе
