@@ -16,9 +16,9 @@
 
 ## Короткие предложения
 
-[Датасеты](https://github.com/Koziev/NLP_Datasets/tree/master/Samples) используются для тренировки чат-бота. Они содержат короткие предложения, извлеченные
-из большого текстового корпуса. Для удобства тренировки диалоговых моделей данные
-разбиты на 3 группы:
+[Датасеты](https://github.com/Koziev/NLP_Datasets/tree/master/Samples) используются для тренировки чат-бота.
+Они содержат короткие предложения, извлеченные из большого текстового корпуса.
+Для удобства тренировки диалоговых моделей данные разбиты на 3 группы:
 
 ### Предложения с глаголом в 1-м лице единственного числа
 
@@ -49,7 +49,16 @@
 Бусины переливаются очень красиво!
 ```
 
-Предложения в каждом файле отсортированы программой [sort_samples_by_kenlm.py](https://github.com/Koziev/NLP_Datasets/blob/master/Samples/sort_samples_by_kenlm.py)
+Предложения в датасетах facts4_1s.txt, facts5_1s.txt, facts5_2s.txt, facts4.txt,
+facts6_1s.txt, facts6_2s.txt отсортированы с помощью кода [sort_facts_by_LSA_tSNE.py](https://github.com/Koziev/NLP_Datasets/blob/master/Samples/sort_facts_by_LSA_tSNE.py).
+Идея сортировки следующая. Для предложений в файле сначала выполняем [LSA](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html),
+получая векторы длиной 60 (см. константу LSA_DIMS в коде). Затем эти векторы встраиваются
+в одномерное пространство с помощью [t-SNE](http://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html),
+так что в итоге для каждого предложения получается действительное число, такое, что
+декартово-близкие в LSA-пространстве предложения имеют небольшую разность этих tsne-чисел. Далее
+сортируем предложения согласно t-SNE значения и сохраняем получающийся список.
+
+Предложения в остальных файлах отсортированы программой [sort_samples_by_kenlm.py](https://github.com/Koziev/NLP_Datasets/blob/master/Samples/sort_samples_by_kenlm.py)
 в порядке убывания вероятности. Вероятность предложения получается с помощью предварительно
 обученной 3-грамной языковой модели [KenLM](https://github.com/kpu/kenlm).
 
