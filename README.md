@@ -6,9 +6,9 @@
 ## Разрешение анафоры (Rucoref-2015)
 
 Задача и датасет описаны на [официальной странице соревнования](http://www.dialog-21.ru/evaluation/2014/anaphora/).
-Исходный датасет, предоставленный организаторами, (доступен по ссылке)[../data/rucoref_29.10.2015.zip].
+Исходный датасет, предоставленный организаторами, [доступен по ссылке](https://github.com/Koziev/NLP_Datasets/blob/master/Anacoref/data/rucoref_29.10.2015.zip).
 С помощью скрипта [extract_anaphora.py](../py/extract_anaphora.py) были раскрыты анафоры, в результате
-чего получился более простой для тренировки чатбота (датасет)[../data/ruanaphora_corpus.dat].
+чего получился более простой для тренировки чатбота [датасет](https://github.com/Koziev/NLP_Datasets/blob/master/Anacoref/data/ruanaphora_corpus.dat).
 Например, фрагмент данных:
 
 ```
