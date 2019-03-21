@@ -7,7 +7,7 @@
 
 Задача и датасет описаны на [официальной странице соревнования](http://www.dialog-21.ru/evaluation/2014/anaphora/).
 Исходный датасет, предоставленный организаторами, [доступен по ссылке](https://github.com/Koziev/NLP_Datasets/blob/master/Anacoref/data/rucoref_29.10.2015.zip).
-С помощью скрипта [extract_anaphora.py](../py/extract_anaphora.py) были раскрыты анафоры, в результате
+С помощью скрипта [extract_anaphora.py](https://github.com/Koziev/NLP_Datasets/blob/master/Anacoref/py/extract_anaphora.py) были раскрыты анафоры, в результате
 чего получился более простой для тренировки чатбота [датасет](https://github.com/Koziev/NLP_Datasets/blob/master/Anacoref/data/ruanaphora_corpus.dat).
 Например, фрагмент данных:
 
