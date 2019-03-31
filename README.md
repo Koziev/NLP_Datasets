@@ -42,7 +42,11 @@
 
 ## Диалоги и обмены репликами
 
-[Автоматически собранные русскоязычные диалоги](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/ru.conversations.txt)
+[Новая версия русскоязычных диалогов](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/dialogues.zip) - более 130 Мб,
+собранных из художественной литературы и подобных источников. В диалогах есть некоторое, относительное
+небольшое, количество оставшегося после автоматической чистки мусора.
+
+Старая версия - [Автоматически собранные русскоязычные диалоги](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/ru.conversations.txt)
 
 
 ## Статистика употребляемости слов в группах по 2, 3 и 4 слова
