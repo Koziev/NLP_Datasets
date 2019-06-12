@@ -141,14 +141,22 @@ A: спереди
 Каждая группа предпосылка-вопрос-ответ отделена пустыми строками. Перед предпосылкой стоит
 метка T:, перед вопросом метка Q:, перед ответом метка A:
 
+## Леммы
+
+[Датасет с леммами](https://github.com/Koziev/NLP_Datasets/blob/master/Lemmas/Data/word2lemma.7z)
+
+В архиве - список словоформ и их лемм, взятый из [Грамматического Словаря Русского Языка](https://github.com/Koziev/GrammarEngine).
+Некоторое количество (несколько процентов) слов имеют неоднозначную лемматизацию,
+например РОЙ - глагол РЫТЬ или существительное РОЙ. В таких случаях
+нужно учитывать контекст слова. К примеру, так работает библиотека
+для лемматизации [rulemma](https://github.com/Koziev/rulemma).
+
 
 ## Прочее
 
 [Перестановочные перефразировки](https://github.com/Koziev/NLP_Datasets/tree/master/ParaphraseDetection)
 
 [Частоты слов с учетом частей речи](https://github.com/Koziev/NLP_Datasets/tree/master/WordformFrequencies)
-
-[Леммы](https://github.com/Koziev/NLP_Datasets/blob/master/Lemmas/Data/word2lemma.7z)
 
 [Приведение слов к нейтральной форме "штучка-штука"](https://github.com/Koziev/NLP_Datasets/blob/master/Lemmas/Data/lemma2normal.dat)
 
