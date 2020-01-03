@@ -273,6 +273,21 @@ A: спереди
 для лемматизации [rulemma](https://github.com/Koziev/rulemma).
 
 
+## NP chunking
+
+[Датасет с разметкой](https://github.com/Koziev/NLP_Datasets/blob/master/NP_Chunker/chunker_train_NP.dat)
+
+Датасет содержит предложения, в которых выделены NP-чанки. Первое поле в каждой записи
+содержит метку принадлежности слова:  
+
+0 - не принадлежит NP-чанку  
+1 - начало NP-чанка  
+2 - продолжение NP-чанка  
+
+Разметка получена автоматической конвертацией из dependencies и может содержать
+некоторые артефакты.
+
+
 ## Прочее
 
 [Перестановочные перефразировки](https://github.com/Koziev/NLP_Datasets/tree/master/ParaphraseDetection)
