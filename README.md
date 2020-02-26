@@ -318,5 +318,4 @@ A: спереди
 
 [Приведение слов к нейтральной форме "штучка-штука"](https://github.com/Koziev/NLP_Datasets/blob/master/Lemmas/Data/lemma2normal.dat)
 
-
-
+[Корни слов](https://github.com/Koziev/NLP_Datasets/tree/master/Morph/wiki_roots.txt)
