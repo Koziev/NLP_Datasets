@@ -49,6 +49,11 @@
 Голландские аборигены
 ```
 
+Более новая и расширенная версия этого набора, собранная другим способом, находится
+в архиве [patterns.adj_noun.zip](https://github.com/Koziev/NLP_Datasets/blob/master/Samples/patterns.adj_noun.zip)
+
+
+
 Архив [prep+noun.zip](https://github.com/Koziev/NLP_Datasets/blob/master/Samples/prep%2Bnoun.zip) содержит такие паттерны:
 ```
 У аборигенных народов
@@ -60,6 +65,20 @@
 От аборигенов
 У аборигенов
 ```
+
+
+Архив [patterns.noun_np_gen.zip](https://github.com/Koziev/NLP_Datasets/blob/master/Samples/patterns.noun_np_gen.zip) содержит 
+паттерны из существительного и полного правого генитива:
+```
+окно браузера
+течение дня
+укус медведки
+изюминка такой процедуры
+суть декларации
+рецепт вкусного молочного коктейля
+музыка самого высокого уровня
+```
+
 
 Архив [S+V.zip](https://github.com/Koziev/NLP_Datasets/blob/master/Samples/S%2BV.zip) содержит образцы такого вида:
 ```
