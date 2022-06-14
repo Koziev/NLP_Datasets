@@ -8,7 +8,9 @@
 
 [Диалоги из анекдотов](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_dialogues_from_anekdots.txt) - около 46008 коротких диалогов
 
-[Диалоги из худлита (флибуста)](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_flibusta_dialogues.tar.xz) - около 400 Мб после распаковки
+[Диалоги из худлита (флибуста), части 1](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_flibusta_dialogues.1.tar.xz) - около 200 Мб после распаковки
+
+[Диалоги из худлита (флибуста), части 2](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_flibusta_dialogues.2.tar.xz) - около 200 Мб после распаковки
 
 [Еще русскоязычные диалогов из худлита](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/dialogues.zip) - более 130 Мб,
 собранных из художественной литературы и подобных источников. В диалогах есть некоторое, относительное
