@@ -6,6 +6,8 @@
 
 ## Диалоги и обмены репликами
 
+[Диалоги с борд](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.tar.xz) - строго 18+, есть некоторое количество поломанных диалогов, так как отфильтровать их автоматически очень трудно.
+
 [Диалоги из анекдотов](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_dialogues_from_anekdots.txt) - около 46008 коротких диалогов
 
 [Диалоги из худлита (флибуста), части 1](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_flibusta_dialogues.1.tar.xz) - около 200 Мб после распаковки
