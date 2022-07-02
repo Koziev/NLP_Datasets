@@ -6,15 +6,17 @@
 
 ## Диалоги и обмены репликами
 
-[Диалоги с борд](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.tar.xz) - строго 18+, есть некоторое количество поломанных диалогов, так как отфильтровать их автоматически очень трудно.
+Диалоги с имиджборд - строго 18+, есть некоторое количество поломанных диалогов, так как отфильтровать их автоматически очень трудно:  
+[часть 1](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.part_1.tar.xz)
+[часть 2](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.part_2.tar.xz)
 
 [Диалоги из анекдотов](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_dialogues_from_anekdots.txt) - около 46008 коротких диалогов
 
 [Почищенные диалоги Cornell Movie Corpus](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/cornell_movie_corpus.tar.xz) - почищенные субтитры, много диалогов "с середины"
 
-[Диалоги из худлита (флибуста), части 1](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_flibusta_dialogues.1.tar.xz) - около 200 Мб после распаковки
-
-[Диалоги из худлита (флибуста), части 2](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_flibusta_dialogues.2.tar.xz) - около 200 Мб после распаковки
+Диалоги из худлита (флибуста) - около 400 Мб после распаковки:  
+[часть 1](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_flibusta_dialogues.1.tar.xz)
+[часть 2](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_flibusta_dialogues.2.tar.xz)
 
 [Еще русскоязычные диалоги из худлита](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/dialogues.zip) - более 130 Мб,
 собранных из художественной литературы и подобных источников. В диалогах есть некоторое, относительное
