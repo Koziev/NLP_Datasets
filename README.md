@@ -10,7 +10,7 @@
 [часть 1](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.part_1.tar.xz)
 [часть 2](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.part_2.tar.xz)
 
-[Диалоги из анекдотов](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_dialogues_from_anekdots.txt) - около 46008 коротких диалогов
+[Диалоги из анекдотов](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_dialogues_from_anekdots.tar.xz) - около 180000 диалогов, собранных с разных развлекательных сайтов.
 
 [Почищенные диалоги Cornell Movie Corpus](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/cornell_movie_corpus.tar.xz) - почищенные субтитры, много диалогов "с середины"
 
