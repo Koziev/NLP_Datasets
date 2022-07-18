@@ -7,10 +7,15 @@
 ## Диалоги и обмены репликами
 
 Диалоги с имиджборд - строго 18+, есть некоторое количество поломанных диалогов, так как отфильтровать их автоматически очень трудно:  
-[часть 1](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.part_1.tar.xz)
-[часть 2](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.part_2.tar.xz)
+[часть 1](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.zip)
+[часть 2](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.z01)
+[часть 3](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.z02)
+[часть 4](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.z03)
+[часть 5](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.z04)
+[часть 6](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.z05)
+[часть 7](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.z06)
 
-[Диалоги из анекдотов](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_dialogues_from_anekdots.tar.xz) - около 180000 диалогов, собранных с разных развлекательных сайтов.
+[Диалоги из анекдотов](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_dialogues_from_anekdots.tar.xz) - около 90000 диалогов, собранных с разных развлекательных сайтов.
 
 [Почищенные диалоги Cornell Movie Corpus](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/cornell_movie_corpus.tar.xz) - почищенные субтитры, много диалогов "с середины"
 
