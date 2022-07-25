@@ -13,7 +13,6 @@
 [часть 4](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.z03)
 [часть 5](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.z04)
 [часть 6](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.z05)
-[часть 7](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.z06)
 
 [Диалоги из анекдотов](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_dialogues_from_anekdots.tar.xz) - около 90000 диалогов, собранных с разных развлекательных сайтов.
 
