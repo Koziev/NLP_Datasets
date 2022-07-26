@@ -14,6 +14,21 @@
 [часть 5](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.z04)
 [часть 6](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues.z05)
 
+Разметка реплик в этих диалогах оценками релевантности и специфичности, файл в формате jsonl, чтобы отбирать самые качественные диалоги:  
+[часть 1](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues_scored.zip)
+[часть 2](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues_scored.z01)
+[часть 3](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues_scored.z02)
+[часть 4](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues_scored.z03)
+[часть 5](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues_scored.z04)
+[часть 6](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues_scored.z05)
+[часть 7](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues_scored.z06)
+[часть 8](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues_scored.z07)
+[часть 9](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues_scored.z08)
+[часть 10](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues_scored.z09)
+[часть 11](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues_scored.z10)
+[часть 12](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues_scored.z11)
+
+
 [Диалоги из анекдотов](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_dialogues_from_anekdots.tar.xz) - около 90000 диалогов, собранных с разных развлекательных сайтов.
 
 [Почищенные диалоги Cornell Movie Corpus](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/cornell_movie_corpus.tar.xz) - почищенные субтитры, много диалогов "с середины"
