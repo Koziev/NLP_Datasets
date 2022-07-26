@@ -28,6 +28,8 @@
 [часть 11](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues_scored.z10)
 [часть 12](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/chan_dialogues_scored.z11)
 
+Код для выполнения разметки: [tinkoff_model_dialogues_scoring.py](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/tinkoff_model_dialogues_scoring.py)
+
 
 [Диалоги из анекдотов](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_dialogues_from_anekdots.tar.xz) - около 90000 диалогов, собранных с разных развлекательных сайтов.
 
