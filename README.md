@@ -30,6 +30,18 @@
 
 Код для выполнения разметки: [tinkoff_model_dialogues_scoring.py](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/tinkoff_model_dialogues_scoring.py)
 
+Чтобы распаковать этот архив, нужно сначала объединить файлы в один:
+
+```
+cat chan_dialogues_scored.zip* > 1.zip
+```
+
+Затем распаковать его и получить 700 Мб json файл:
+
+```
+unzip 1.zip
+```
+
 
 [Диалоги из анекдотов](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_dialogues_from_anekdots.tar.xz) - около 90000 диалогов, собранных с разных развлекательных сайтов.
 
