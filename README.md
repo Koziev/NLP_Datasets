@@ -79,6 +79,13 @@ unzip 1.zip
 Готовую модель генеративного читчата, обученного на части вышеперечисленных датасетов, можно найти здесь: [https://huggingface.co/inkoziev/rugpt_chitchat](https://huggingface.co/inkoziev/rugpt_chitchat)
 
 
+## Перефразировки диалоговых реплик и строк стихотворений
+
+
+Датасет доступен в репозитории [inkoziev/paraphrases](https://huggingface.co/datasets/inkoziev/paraphrases). Он используется
+для тренировки детектора перефразировок [inkoziev/sbert_synonymy](https://huggingface.co/inkoziev/sbert_synonymy)
+и для перефразировщика в проекте генеративной поэзии [inkoziev/paraphraser](https://huggingface.co/inkoziev/paraphraser).
+
 
 
 ## Короткие предложения и словосочетания.
