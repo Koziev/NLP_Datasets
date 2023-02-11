@@ -74,7 +74,8 @@ unzip 1.zip
 [10] -  Не дам!
 ```
 
-Синтетические пары вопрос-ответ с арифметическими задачами: [train](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/qa_arith_10.txt)  [test](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/qa_arith_10.test.txt)  
+Синтетические пары вопрос-ответ с арифметическими задачами: [train](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/qa_arith_10.txt)  [test](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/qa_arith_10.test.txt).
+Значительно расширенный вариант этого датасета с длинными диалогами можно найти в репозитории [inkoziev/arithmetic](https://huggingface.co/datasets/inkoziev/arithmetic).
 
 Готовую модель генеративного читчата, обученного на части вышеперечисленных датасетов, можно найти здесь: [https://huggingface.co/inkoziev/rugpt_chitchat](https://huggingface.co/inkoziev/rugpt_chitchat)
 
