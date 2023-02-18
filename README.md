@@ -43,7 +43,7 @@ unzip 1.zip
 ```
 
 
-[Диалоги из анекдотов](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_dialogues_from_anekdots.tar.xz) - около 90000 диалогов, собранных с разных развлекательных сайтов.
+[Диалоги из анекдотов](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/extract_dialogues_from_anekdots.tar.xz) - около 90000 диалогов, собранных с разных развлекательных сайтов. Расширенная версия датасета с другим форматированием доступна тут [inkoziev/jokes_dialogues](https://huggingface.co/datasets/inkoziev/jokes_dialogues).
 
 [Почищенные диалоги Cornell Movie Corpus](https://github.com/Koziev/NLP_Datasets/blob/master/Conversations/Data/cornell_movie_corpus.tar.xz) - почищенные субтитры, много диалогов "с середины"
 
